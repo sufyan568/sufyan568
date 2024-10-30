@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abu Sufyan</h1>
 <h3 align="center">Seasoned Senior Software Developer having 6+ years of experience</h3>
 
-- 💬 Ask me about **PHP | Laravel | Javascript | Livewire | Vue Js | Yii 2 | Slim PHP | Node Js |  HTML5 | CSS | MYSQL | JQuery | RESTful services and JSON | Composer | ES6 | GIT | CI/CD | PHPUnit Testing | AWS | DevOps | Webpack | MVC | Agile**
-
-
-- 🌱 I’m currently working **Alphine.js**
+- 💬 Ask me about **PHP | Laravel | Javascript | Livewire | Vue Js | Yii 2 | Slim PHP | Node Js |  HTML5 | CSS | MYSQL | JQuery | Third Party Api Integration | RESTful services and JSON | Composer | ES6 | GIT | CI/CD | PHPUnit Testing | AWS | DevOps | Webpack | MVC | Agile**
 
 - 📫 Reach me at **muhammad.yaqoob180@gmail.com**
 
@@ -30,13 +27,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>   
 </p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sufyan568" alt="sufyan568" /></p>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufyan568&label=Profile%20views&color=0e75b6&style=flat" alt="sufyan568" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufyan568" alt="sufyan568" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
