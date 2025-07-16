@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abu Sufyan</h1>
-<h3 align="center">Seasoned Senior Software Developer having 6+ years of experience</h3>
+<h3 align="center">Seasoned Senior Software Developer having 7 years of experience</h3>
 
-- 💬 Ask me about **PHP | Laravel | Javascript | Livewire | Vue Js | Yii 2 | Slim PHP | Node Js |  HTML5 | CSS | MYSQL | JQuery | Third Party Api Integration | RESTful services and JSON | Composer | ES6 | GIT | CI/CD | PHPUnit Testing | AWS | DevOps | Webpack | MVC | Agile**
+- 💬 Ask me about **PHP | Laravel | Javascript | Livewire | Vue Js | Yii 2 | DevOops | Node Js |  HTML5 | CSS | MYSQL | JQuery | Third party API integration | RESTful services and JSON | Composer | ES6 | GIT | CI/CD | PHPUnit testing | AWS | Webpack | MVC | Agile**
 
 - 📫 Reach me at **muhammad.yaqoob180@gmail.com**
 
