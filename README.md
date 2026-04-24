@@ -1,11 +1,18 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/68376237?v=4" alt="Abu Sufyan" width="120" height="120" style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">Hi, I'm Abu Sufyan 👋</h1>
 
 <h3 align="center">Senior Full Stack Developer · Laravel · Livewire · DevOps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sufyan568&label=Profile%20views&color=0e75b6&style=flat" alt="sufyan568" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://avatars.githubusercontent.com/u/68376237?v=4" alt="sufyan568" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sufyan568&theme=darkhub&no-frame=true&row=1&column=6" alt="sufyan568" />
   </a>
 </p>
 
