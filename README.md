@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sufyan568&label=Profile%20views&color=0e75b6&style=flat" alt="sufyan568" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[https://github-profile-trophy.vercel.app/?username=sufyan568&theme=darkhub&no-frame=true&row=1&column=6](https://avatars.githubusercontent.com/u/68376237?v=4)" alt="sufyan568" />
+    <img src="https://avatars.githubusercontent.com/u/68376237?v=4" alt="sufyan568" />
   </a>
 </p>
 
